@@ -1,0 +1,15 @@
+C:\Users\chpgaspar\Documents\DEV\target-teste\bin\Debug\net7.0\target-teste.exe
+C:\Users\chpgaspar\Documents\DEV\target-teste\bin\Debug\net7.0\target-teste.deps.json
+C:\Users\chpgaspar\Documents\DEV\target-teste\bin\Debug\net7.0\target-teste.runtimeconfig.json
+C:\Users\chpgaspar\Documents\DEV\target-teste\bin\Debug\net7.0\target-teste.dll
+C:\Users\chpgaspar\Documents\DEV\target-teste\bin\Debug\net7.0\target-teste.pdb
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.csproj.AssemblyReference.cache
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.AssemblyInfoInputs.cache
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.AssemblyInfo.cs
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.csproj.CoreCompileInputs.cache
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.dll
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\refint\target-teste.dll
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.pdb
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\target-teste.genruntimeconfig.cache
+C:\Users\chpgaspar\Documents\DEV\target-teste\obj\Debug\net7.0\ref\target-teste.dll
